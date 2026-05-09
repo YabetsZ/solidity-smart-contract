@@ -1,0 +1,8 @@
+.github
+.cursor
+.idea
+.vscode
+*.log
+*.tmp
+temp/
+build/
