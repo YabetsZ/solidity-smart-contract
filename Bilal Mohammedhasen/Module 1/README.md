@@ -1,9 +1,11 @@
 # Module 1 — Solidity Fundamentals
+
 ![Module 1 Completion](Module-1%20Completion.png.png)
 
 This module covers the foundational building blocks of Solidity: primitive data types, enums, constructors, and the different kinds of functions (pure, view, state-changing, and overloaded). Each exercise is a small, self-contained contract paired with a Foundry test file.
 
 ## Table of Contents
+
 - Overview
 - Project Structure
 - Prerequisites
@@ -13,6 +15,7 @@ This module covers the foundational building blocks of Solidity: primitive data 
 - Learning Outcomes
 
 ## Overview
+
 Module 1 is split into two thematic groups:
 
 - `basic-data-types`: Practice declaring and using Solidity's primitive types (bool, uint, int, string, enum).
@@ -21,6 +24,7 @@ Module 1 is split into two thematic groups:
 Every exercise is a fully working contract under `<exercise>/Contract.sol` with a matching test in `<exercise>/Contract.t.sol`.
 
 ## Project Structure
+
 ```
 Module 1/
 ├── README.md
@@ -40,11 +44,13 @@ Module 1/
 ```
 
 ## Prerequisites
+
 - Foundry (forge, cast, anvil)
 - Git
 - Terminal (PowerShell, Bash, or Windows Terminal)
 
 ## Setup
+
 From the repo root (if `foundry.toml` is not present):
 
 ```bash
@@ -53,6 +59,7 @@ forge install foundry-rs/forge-std --no-commit
 ```
 
 ## Running the Tests
+
 From the repository (or an exercise folder configured as a Foundry project):
 
 ```bash
@@ -62,14 +69,17 @@ forge test --match-contract ContractTest
 ```
 
 ## Exercises (high level)
+
 - Data types: booleans, unsigned integers, signed integers, string literals, enums.
 - Functions: constructor with args, pure/view functions, state mutation, function overloading.
 
 ## Learning Outcomes
+
 - Use SPDX headers and pragma versions
 - Declare Solidity primitive types and enums
 - Write constructors, pure/view functions, and state-changing functions
 - Overload functions and write Foundry tests
 
 ---
+
 Created from example README provided by a peer; adapt as needed.
