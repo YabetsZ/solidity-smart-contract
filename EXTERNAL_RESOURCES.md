@@ -1,6 +1,6 @@
 # External References Used For Further Information
 
-This are the tools the course has recommended, and touched! I used them to get the informaation that I need.
+This are the tools the course has recommended, and touched! I used them to get the information that I need.
 
 ## Solidity and Ethereum Basics
 
