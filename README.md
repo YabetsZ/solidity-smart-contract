@@ -11,3 +11,9 @@ Repository layout (top-level folders)
 - `remix-fund-me/` — FundMe contract and price-converter examples
 - `foundry-simple-storage/` — Foundry examples, scripts, and tests
 - `solidity-cyfrin-FULL-impl/` — fuller implementation and Remix helpers
+
+Group members:
+1. Yabets Zekaryas Ugr/25317/14
+2. Bilal Mohamedhasen Ugr/25886/14
+3. Newal Hussen Ugr/25353/14
+4. Yeabsra Tesfaye Ugr/23263/13
